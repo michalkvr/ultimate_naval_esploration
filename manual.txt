@@ -1,0 +1,11 @@
+Ovládání lodě:
+
+	SWITCH_UP 		- START HRY / RESTART HRY
+	JOYSTICK_LEFT 	- POHYB VLEVO
+	JOYSTICK_RIGHT 	- POHYB VPRAVO
+	SWITCH_LEFT    	- VYSTŘELIT VLEVO
+	SWITCH_VPRAVO	- VYSTŘELIT VPRAVO
+
+Princip hry:
+	
+	Pohybujete se lodí vpravo a vlevo v určitém rozsahu, snažíte se vyhnout objektům, které se pohybují proti vám a zároveň se snažíte sestřelit co nejvíce nepřátelských lodí. Za každou sestřelenou nepřátelskou loď získáte jeden bod. Při každém minutí překážky se hra zrychlí a dobijí se děla. Pokud narazíte do překážky, prohráli jste, zobrazí se vaše skóre a zároveň nejvyšší skóre z minulých pokusů. Šťastnou plavbu!
